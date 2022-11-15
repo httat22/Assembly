@@ -1,5 +1,5 @@
 ;=========================================================
-; Viết chương trình nhập và in ra màn hình số nhị phân. 
+;Viết chương trình nhập và in ra màn hình số nhị phân. 
 ;Nếu nhập sai thì yêu cầu nhập lại.
 ;=========================================================
 
